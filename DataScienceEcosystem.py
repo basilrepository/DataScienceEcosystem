@@ -65,14 +65,6 @@ df
 # * R
 # * SQL
 
-# In[24]:
-
-
-pip install PyGithub
-
-from Git import Github
-
-
 # ## Author ##
 # Basil
 
